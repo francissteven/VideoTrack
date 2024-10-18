@@ -8,6 +8,7 @@
                 <h1 class="display-5 fw-bold">Video Tracker (SCORM)</h1>
                 <p class="fs-4">Track video progress and resume where you left off.</p>
                 <p class="fs-5"><a href="{{ route('videos') }}">Locally Stored</a></p>
+                <p class="fs-5"><a href="{{ route('videojs') }}">video.js</a></p>
             </div>
         </div>
     </div>
